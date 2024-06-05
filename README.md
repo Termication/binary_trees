@@ -62,7 +62,7 @@ Traversal methods are techniques to visit all the nodes in a binary tree:
 
 ### Full Binary Tree
 
-    **Definition:** A binary tree in which every node other than the leaves has exactly two children.
+    Definition: A binary tree in which every node other than the leaves has exactly two children.
     Example: Every node either has 0 or 2 children.
 
 ### Perfect Binary Tree
